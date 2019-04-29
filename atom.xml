@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>流框|我的博客</title>
+  <title>木子林|我的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://lzlor.github.io/</id>
   
   <author>
-    <name>lzlor</name>
+    <name>木之林</name>
     
   </author>
   
